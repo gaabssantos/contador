@@ -1,0 +1,43 @@
+.regressive-container {
+  background-color: #ccccccc4;
+  width: 70%;
+  margin: 70px auto;
+  border-radius: 10px;
+}
+
+.regressive-container h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.form-control {
+  margin: 0 auto;
+  width: 55%;
+}
+
+.form-control button {
+    background-color: #322F2F;
+    border: none;
+    color: #fff;
+    padding: 15px 50px;
+    border-radius: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.form-control label {
+    font-weight: bold;
+}
+
+.form-control input {
+  display: block;
+  margin: 10px 0;
+}
+
+.form-control input[type="text"],
+.form-control input[type="date"] {
+  width: 90%;
+  padding: 13px;
+  border-radius: 10px;
+  border: none;
+}

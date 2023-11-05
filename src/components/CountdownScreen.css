@@ -1,0 +1,30 @@
+.countdown-container {
+  background-color: #ccccccc4;
+  width: 70%;
+  margin: 70px auto;
+  border-radius: 10px;
+}
+
+.countdown-container h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.time-square {
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+    padding: 25px;
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+.time span {
+    font-weight: bold;
+}
